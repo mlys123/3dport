@@ -57,13 +57,13 @@ const Hero = () => {
               <h1>into Real Projects</h1>
               <h1>that Deliver Results</h1>
             </div>
-            <p className="text-white-50 md:text-xl relative z-10 point-events-none">
+            <p className="text-white-50 md:text-xl relative z-10 pointer-events-none">
               Hi,你好，我叫亚历山大，一名前端工程师。我是一个全栈开发工程师，
               <br />
               我喜欢用代码创造。
             </p>
             <Button
-              className="md: w-80 md:h-12 w-60 h-12"
+              className="md:w-80 md:h-12 w-60 h-12"
               id="button"
               text="See my work"
             />
